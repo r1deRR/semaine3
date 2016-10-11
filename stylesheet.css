@@ -1,0 +1,29 @@
+#metier {
+    text-align:right; 
+    font-size:300%; 
+    color:#0C90D2;
+    font-weight:bold;
+}
+
+
+#nom {
+    text-align:left;
+    color:#0C90D2;
+    font-weight:bold;
+}
+
+.titres {
+    text-align:center; 
+    color:#0C90D2;
+    font-style:italic;
+    text-decoration:underline;
+}
+
+ul li {
+    text-align:center;
+}
+
+h3 span {
+    text-align:left; 
+    color:#0C90D2;
+}
